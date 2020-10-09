@@ -2,7 +2,7 @@
   "name": "template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gusgh911.github.io/test",
+  "homepage": "https://gusgh911.github.io/react-habit",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.14.0",
     "@testing-library/jest-dom": "^4.2.4",
